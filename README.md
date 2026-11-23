@@ -78,4 +78,6 @@ legal-case-analyzer/
 
 ## License
 
-本仓库暂未指定开源许可证。如需公开分享，建议添加 [MIT License](https://opensource.org/licenses/MIT)（可按需更改）。
+本仓库采用 [MIT License](LICENSE) 开源，Copyright (c) 2026 jiayu-lisa。
+
+可自由使用、修改、分发本文档与 Skill 文件，须保留版权声明与许可声明。Skill 运行过程中产生的法律分析结论不构成法律意见，参见上文「免责声明」。
